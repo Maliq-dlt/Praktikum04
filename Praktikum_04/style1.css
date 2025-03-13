@@ -1,0 +1,57 @@
+body{
+    background-image: url(background.png) ;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+label{
+    font: Arial;
+    margin-left: 10px;
+    font-weight: bold;
+    
+}
+form{
+    background-color: white;
+    margin-top: 100px;
+    margin-left:500px ;
+    margin-right: 500px;
+    border-radius: 10px;
+}
+.input{
+    margin-left: 10px;
+    padding-right:  50px;
+    width: 75%;
+    margin-bottom: 5px;
+}
+.submit{
+
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color: #007bff;
+    margin-top: 10px;
+    width: 90%;
+    height: 30px;
+    border-radius: 5px;
+    color:white ;
+    outline: none;
+    border: none;
+}
+input:focus{
+    border-color:#007bff;
+    outline: none;
+}
+.input:focus{
+    border-color:#007bff;
+    outline: none;
+}
+h3{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.pilih{
+    margin-left: 10px;
+    padding-right:  50px;
+    width: 75%;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
